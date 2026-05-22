@@ -17,5 +17,5 @@ O **PlayCode** é um projeto voltado para a área da educação, ele é inspirad
 
 ## Relação com as ODS (ONU) 🎯
 
-O projeto contribui para a **ODS 4: Educação de Qualidade**, especificamente com a **Meta 4.4**, que e visar em aumentar substancialmente o número de jovens e adultos com habilidades técnicas relevantes para o mercado de trabalho no caso desse projeto na área da tecnologia.
+O projeto contribui para a **ODS 4: Educação de Qualidade**, especificamente com a **Meta 4.4**, que visa em aumentar o número de jovens e adultos com habilidades técnicas relevantes para o mercado de trabalho no caso desse projeto na área da tecnologia.
 
