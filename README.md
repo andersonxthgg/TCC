@@ -1,6 +1,6 @@
 # 🐍 PlayCode
 
-> Desenvolvi essa plataforma web para o ensino de lógica de programação e introdução ao JavaScript é proximamente outras linguagens.
+ Desenvolvi essa plataforma web para o ensino de lógica de programação e introdução ao JavaScript é proximamente outras linguagens.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-sqare&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.0%2B-green?style=flat-sqare&logo=flask)
