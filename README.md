@@ -19,7 +19,7 @@ O mercado na Área da tecnologia vai crescendo rapidamente e exige cada vez mais
 
 
 ## Objetivo
-o nosso objetivo é desenvolver uma plataforma web que combine o engajamento dos jogos com uma estrutura gamificada para tornar o aprendizado de lógica e JavaScript mais simples e intuitivo, com uma estrutura escalável para adicionar novos módulos de ensino.
+O nosso objetivo é desenvolver uma plataforma web que combine o engajamento dos jogos com uma estrutura gamificada para tornar o aprendizado de lógica e JavaScript mais simples e intuitivo, com uma estrutura escalável para adicionar novos módulos de ensino.
 
 ## Justificativa
 
