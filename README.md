@@ -2,11 +2,6 @@
 
  Desenvolvi essa plataforma web para o ensino de lógica de programação e introdução ao JavaScript é proximamente outras linguagens.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-sqare&logo=python)
-![Flask](https://img.shields.io/badge/Flask-3.0%2B-green?style=flat-sqare&logo=flask)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-sqare&logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-sqare)
-
 ---
 
 ## Tema do projeto 📝
